@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('Papyrus W01.woff2') format('woff2'),
+         url('Papyrus W01.woff') format('woff');
+}
+
+body {
+    font-family: 'CustomFont', sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 24px;
+}
